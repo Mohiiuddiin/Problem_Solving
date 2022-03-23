@@ -1,0 +1,14 @@
+D:\GitHub\Problem_Solving\Two_Sum\bin\Debug\netcoreapp3.1\Two_Sum.exe
+D:\GitHub\Problem_Solving\Two_Sum\bin\Debug\netcoreapp3.1\Two_Sum.deps.json
+D:\GitHub\Problem_Solving\Two_Sum\bin\Debug\netcoreapp3.1\Two_Sum.runtimeconfig.json
+D:\GitHub\Problem_Solving\Two_Sum\bin\Debug\netcoreapp3.1\Two_Sum.runtimeconfig.dev.json
+D:\GitHub\Problem_Solving\Two_Sum\bin\Debug\netcoreapp3.1\Two_Sum.dll
+D:\GitHub\Problem_Solving\Two_Sum\bin\Debug\netcoreapp3.1\Two_Sum.pdb
+D:\GitHub\Problem_Solving\Two_Sum\obj\Debug\netcoreapp3.1\Two_Sum.csproj.AssemblyReference.cache
+D:\GitHub\Problem_Solving\Two_Sum\obj\Debug\netcoreapp3.1\Two_Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Problem_Solving\Two_Sum\obj\Debug\netcoreapp3.1\Two_Sum.AssemblyInfoInputs.cache
+D:\GitHub\Problem_Solving\Two_Sum\obj\Debug\netcoreapp3.1\Two_Sum.AssemblyInfo.cs
+D:\GitHub\Problem_Solving\Two_Sum\obj\Debug\netcoreapp3.1\Two_Sum.csproj.CoreCompileInputs.cache
+D:\GitHub\Problem_Solving\Two_Sum\obj\Debug\netcoreapp3.1\Two_Sum.dll
+D:\GitHub\Problem_Solving\Two_Sum\obj\Debug\netcoreapp3.1\Two_Sum.pdb
+D:\GitHub\Problem_Solving\Two_Sum\obj\Debug\netcoreapp3.1\Two_Sum.genruntimeconfig.cache
